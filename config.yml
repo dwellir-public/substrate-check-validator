@@ -1,0 +1,5 @@
+url: wss://polkadot-rpc.dwellir.com
+slackApiToken: xoxb-123-456-123abc
+slackChannel: monitoring-bot
+validators:
+  - 1MrurrNb4VTrRJUXT6fGxHFdmwwscqHZUFkMistMsP8k5Nk
